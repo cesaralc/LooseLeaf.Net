@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LooseLeaf/LooseLeaf.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LooseLeaf.Tests/LooseLeaf.Tests.csproj" />
+  </Folder>
+</Solution>
