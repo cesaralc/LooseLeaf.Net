@@ -5,6 +5,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <IsPackable>false</IsPackable>
+    <AssemblyName>LooseLeaf.Tests</AssemblyName>
+    <RootNamespace>LooseLeaf.Tests</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
