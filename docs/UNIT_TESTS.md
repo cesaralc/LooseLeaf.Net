@@ -1,6 +1,6 @@
 # Unit Test Documentation
 
-This project uses xUnit for unit tests in `tests/DocExtract.Tests`.
+This project uses xUnit for unit tests in `tests/LooseLeaf.Tests`.
 
 ## Goals
 
@@ -30,13 +30,13 @@ These tests use in-memory stubs for:
 From repository root:
 
 ```bash
-dotnet test DocExtract.slnx
+dotnet test LooseLeaf.slnx
 ```
 
 Or run the test project directly:
 
 ```bash
-dotnet test tests/DocExtract.Tests/DocExtract.Tests.csproj
+dotnet test tests/LooseLeaf.Tests/LooseLeaf.Tests.csproj
 ```
 
 ## Adding tests
